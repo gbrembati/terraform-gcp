@@ -7,6 +7,9 @@ The projects can be briefly described as follows:
 2. **gcp/mgmt-cfg**: It configures existing Check Point management through APIs with GCP objects
 
 ## Do you want to see more? 
+Check out my Microsoft Azure repository here: [gbrembati / MicrosoftAzure](https://github.com/gbrembati/terraform-azure)   
+Check out my Google Cloud Platform repository here: [gbrembati / CloudPostureManagement](https://github.com/gbrembati/terraform-cloudguard-native)  
+   
 Check the Check Point official CloudGuard IaaS repository here: [CheckPointSW / CloudGuardIaaS](https://github.com/CheckPointSW/CloudGuardIaaS)
 
 ## How do you use these projects?
