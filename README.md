@@ -8,3 +8,29 @@ The projects can be briefly described as follows:
 
 ## Do you want to see more? 
 Check the Check Point official CloudGuard IaaS repository here: [CheckPointSW / CloudGuardIaaS](https://github.com/CheckPointSW/CloudGuardIaaS)
+
+## How do you use these projects?
+The first thing that you need to do is download this repository, either via "*git clone*" or "*download as ZIP*".  
+Choose which are projects that you want to use, and in each directory change the relative __*terraform.tfvars*__ file.   
+Once you have done the above, simply go inside the directory of a single project and run these terraform commands.
+
+##
+To prepare the current working directory (and install the required providers) run :
+```hcl
+terraform init 
+```
+##
+To create an execution plan (and see the changes that will be made in your environment) run :
+```hcl
+terraform plan
+``` 
+##
+To apply the changes required to reach the desired state (and create your environment) run :
+```hcl
+terraform apply
+```
+## 
+To destroy the Terraform-managed infrastructure, run:
+```hcl
+terraform destroy
+```
