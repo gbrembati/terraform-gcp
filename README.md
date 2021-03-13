@@ -8,6 +8,7 @@ The projects can be briefly described as follows:
 
 ## Do you want to see more? 
 Check out my Terraform Microsoft Azure repository here: [gbrembati / terraform-azure](https://github.com/gbrembati/terraform-azure)   
+Check out my Terraform Amazon Web Services repository here: [gbrembati / terraform-aws](https://github.com/gbrembati/terraform-aws)   
 Check out my Terraform CloudGuard Native repository here: [gbrembati / terraform-cloudguard-native](https://github.com/gbrembati/terraform-cloudguard-native)   
    
 Check the Check Point official CloudGuard IaaS repository here: [CheckPointSW / CloudGuardIaaS](https://github.com/CheckPointSW/CloudGuardIaaS)
