@@ -4,8 +4,8 @@ hese projects are intended to be used as a template to demonstrate or build a te
 
 ## Which are the projects available?
 The projects can be briefly described as follows:
-1. **./1-base-env**: It creates an environment in GCP based on the CloudGuard Blueprint's design principles
-2. **./2-mgmt-cfg**: It configures existing Check Point management through APIs with GCP objects
+1. **./base-env**: It creates an environment in GCP based on the CloudGuard Blueprint's design principles
+2. **./mgmt-cfg**: It configures existing Check Point management through APIs with GCP objects
 
 ## Do you want to see more? 
 Check out my Terraform Microsoft Azure repository here: [gbrembati / terraform-azure](https://github.com/gbrembati/terraform-azure)   
